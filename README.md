@@ -8,7 +8,7 @@ A desktop application that predicts a student’s final exam grade using Fuzzy L
 
 - Previous exam grade
 
-Features
+Features:
 
 ✓ Fuzzy logic–based decision-making
 
